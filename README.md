@@ -3,4 +3,5 @@
    
    
 ## Some ScrenShots of the App
+!.[.].(fullNotes.jpg)
   
