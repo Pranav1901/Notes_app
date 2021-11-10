@@ -3,5 +3,5 @@
    
    
 ## Some ScrenShots of the App
-!.[.].(/Images/fullNotes.jpg)
+![](Images/fullNotes.jpg)
   
